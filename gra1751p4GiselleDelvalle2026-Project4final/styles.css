@@ -1,0 +1,689 @@
+@charset "utf-8";
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ccc;
+}
+wrapper {
+    display: block;
+    margin: 0 auto;
+    width: 1366px;
+    background-color: #fff;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(183,47,71,1.00) 2.59%,rgba(241,184,196,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(183,47,71,1.00) 2.59%,rgba(241,184,196,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(183,47,71,1.00) 2.59%,rgba(241,184,196,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(183,47,71,1.00) 2.59%,rgba(241,184,196,1.00) 100%);
+}
+.news {
+    text-align: center;
+    font-family: coolvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 85px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    position: relative;
+    top: -39px;
+    text-shadow: 6px 3px #932E41;
+}
+
+header {
+    height: 0px;
+    background-color: #932E41;
+}
+footer {
+    padding: 16px;
+    font-size: 12px;
+    margin: 0px;
+    top: -200px;
+    background-color: #932E41;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+nav {
+    background-color: #932E41;
+    height: 130px;
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+ul a li {
+    display: inline-block;
+    padding: 15px 20px;
+    font-size: 20px;
+    color: #f5e9eb;
+    font-family: fino-sans, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    position: static;
+}
+ul a li:hover {
+    color: #3a7087;
+    height: auto;
+    background-color: #fff;
+}
+nav ul h1 {
+}
+nav img {
+}
+.pinklogo {
+    padding-top: 10px;
+    position: relative;
+    bottom: -49px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 10px;
+}
+.metro {
+    width: 140px;
+    height: 135px;
+    padding-left: 7px;
+    padding-right: 7px;
+    position: relative;
+    top: -665px;
+}
+.metro2 {
+    position: relative;
+    top: -626px;
+    left: -48px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+img {
+}
+.GTA6 {
+    width: 380px;
+    height: 583px;
+    padding-top: 19px;
+    padding-bottom: 0px;
+    position: relative;
+    top: -71px;
+    padding-left: 60px;
+    padding-right: 60px;
+    left: 12px;
+    border-color: #FFFFFF;
+}
+.time100 {
+    width: 380px;
+    height: 583px;
+    top: -71px;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 22px;
+    left: 13px;
+}
+.fronts {
+    width: 11em;
+    text-align: center;
+    padding-left: 9px;
+    padding-top: 47px;
+    padding-bottom: 0px;
+    position: relative;
+    top: -60px;
+    font-family: fino-sans, sans-serif;
+    word-spacing: 4px;
+    background-color: #932E41;
+    left: 39px;
+    border-radius: 20px;
+    padding-right: 9px;
+    border-width: 0px;
+    font-size: 30px;
+    height: 4em;
+    color: #FFFFFF;
+    -webkit-box-shadow: 3px 5px #FFFFFF;
+    box-shadow: 3px 5px #FFFFFF;
+    line-height: 33px;
+}
+
+
+
+.metro4 {
+    float: right;
+    padding-left: 7px;
+    padding-right: 7px;
+    position: relative;
+    top: -98px;
+    left: 57px;
+}
+
+.victoriasecret {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    width: 380px;
+    height: 580px;
+    padding-bottom: 15px;
+    position: relative;
+    top: -57px;
+}
+.metro3 {
+    float: right;
+    width: 140px;
+    height: 135px;
+    padding-left: 7px;
+    padding-right: 7px;
+    position: relative;
+    top: -97px;
+}
+.well {
+    text-align: center;
+    font-size: 160px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    margin-top: 4px;
+    position: relative;
+    top: -140px;
+    margin-bottom: -20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: coolvetica, sans-serif;
+    color: #FFFFFF;
+    text-shadow: 7px 3px 0px #932E41;
+}
+.front2 {
+    color: #FFFFFF;
+    font-family: fino-sans, sans-serif;
+    width: 11em;
+    height: 4em;
+    text-align: center;
+    padding-left: 9px;
+    padding-right: 9px;
+    position: relative;
+    left: 510px;
+    top: -251px;
+    font-size: 30px;
+    background-color: #932E41;
+    border-radius: 20px;
+    padding-top: 49px;
+    -webkit-box-shadow: 3px 5px #FFFFFF;
+    box-shadow: 3px 5px #FFFFFF;
+    padding-bottom: 0px;
+    line-height: 33px;
+    border-width: 0px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.front3 {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: fino-sans;
+    ;
+    ;
+    ;
+    ;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #932E41;
+    border-width: 0px;
+    width: 11em;
+    height: 4em;
+    float: right;
+    padding-top: 49px;
+    padding-left: 9px;
+    padding-right: 9px;
+    position: relative;
+    top: -421px;
+    left: -46px;
+    margin-top: 4px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 3px 5px #FFFFFF;
+    box-shadow: 3px 5px #FFFFFF;
+    line-height: normal;
+}
+.fancythatzine {
+    background-color: #FFFFFF;
+    width: 530px;
+    height: 490px;
+    position: relative;
+    left: 20px;
+    top: 39px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.fmcd {
+    position: relative;
+    left: 244px;
+    width: 530px;
+    height: 490px;
+    top: 39px;
+    background-color: #FFFFFF;
+    padding: 5px;
+    border-radius: 10px;
+}
+.store {
+    text-align: center;
+    font-family: coolvetica;
+    color: #FFFFFF;
+    font-size: 85px;
+    text-shadow: 6px 3px #932E41;
+    position: relative;
+    top: -39px;
+}
+.cdzine {
+    text-align: center;
+    position: relative;
+    top: 53px;
+    left: 135px;
+    font-family: coolvetica;
+    font-size: 50px;
+    margin: 0px;
+    color: #FFFFFF;
+    text-shadow: 6px 3px 0px #932E41;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 6em;
+    padding: 5px;
+}
+.vinyl {
+    color: #FFFFFF;
+    font-family: COOLVETICA;
+    font-size: 50px;
+    text-align: center;
+    width: 9em;
+    padding: 5px;
+    text-shadow: 6px 3px 0px #932E41;
+    position: relative;
+    float: right;
+    top: -113px;
+    left: -54px;
+}
+.price17 {
+    color: #FFFFFF;
+    font-family: coolvetica;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 3px #932E41;
+    padding: 5px;
+    position: relative;
+    left: -175px;
+    top: 22px;
+}
+.price102 {
+    color: #FFFFFF;
+    font-family: coolvetica;
+    font-size: 40px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+    right: -53px;
+    left: 633px;
+    top: -72px;
+    text-shadow: 2px 3px #932E41;
+}
+.videos {
+    color: #FFFFFF;
+    font-family: coolvetica;
+    text-align: center;
+    font-size: 85px;
+    position: relative;
+    top: -82px;
+    text-shadow: 6px 3px #932E41;
+}
+.caption {
+    text-align: center;
+    margin: 0px;
+    font-family: coolvetica;
+    position: relative;
+    top: -90px;
+    font-size: 40px;
+    color: #FFFFFF;
+    text-shadow: 4px 3px 0px #932E41;
+}
+.seemore {
+    text-align: center;
+    font-family: coolvetica;
+    color: #FFFFFF;
+    font-size: 60px;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin: 0px;
+    position: relative;
+    padding-bottom: 9px;
+    top: -129px;
+    text-shadow: 0 0px;
+    border-radius: 20px;
+    background-color: #932E41;
+    width: 5.5em;
+    left: 500px;
+}
+.stateside {
+    width: 386px;
+    height: 277px;
+    position: relative;
+    left: 21px;
+    padding: 0px;
+    top: -41px;
+    border: 4px solid #FFFFFF;
+}
+.girllikeme {
+    width: 538px;
+    height: 358px;
+    position: relative;
+    top: -14pt;
+    left: 14px;
+    border: 4px solid #FFFFFF;
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+}
+.illegal {
+    width: 386px;
+    height: 277px;
+    position: relative;
+    padding: 0px;
+    top: -40px;
+    left: 8px;
+    border: 4px solid #FFFFFF;
+}
+
+
+
+
+
+.concerts {
+    color: #FFFFFF;
+    font-family: coolvetica;
+    text-align: center;
+    font-size: 85px;
+    position: relative;
+    top: -76px;
+    text-shadow: 6px 3px #932E41;
+}
+
+.available {
+    font-family: coolvetica;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    padding: 5px;
+    text-shadow: 4px 3px #932E41;
+    position: relative;
+    top: -113px;
+}
+.table {
+    position: relative;
+    left: 135px;
+    top: -80px;
+    text-decoration: overline;
+    border: 5px solid #FFFFFF;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    margin-bottom: 4px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+}
+.blogs {
+    font-family: coolvetica;
+    color: #FFFFFF;
+    font-size: 85px;
+    text-align: center;
+    text-shadow: 6px 3px #932E41;
+    position: relative;
+    top: -49px;
+}
+.twitter-timeline {
+    font-family: coolvetica;
+    text-align: center;
+    left: 0px;
+    position: relative;
+    color: #FFFFFF;
+    font-size: medium;
+    text-shadow: 2px 0px #932E41;
+}
+.privacy {
+    font-family: coolvetica;
+    text-align: center;
+    font-size: 85px;
+    color: #FFFFFF;
+    text-shadow: 6px 3px #932E41;
+    position: relative;
+    top: -39px;
+}
+.terms {
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    color: #FFFFFF;
+    text-align: left;
+    position: relative;
+    top: -25px;
+    font-size: 20px;
+    width: 61em;
+    left: 61px;
+    background-color: #932E41;
+    border-radius: 20px;
+    height: 16em;
+    text-shadow: 2px 2px #a94056;
+}
+.mailings {
+    font-family: coolvetica;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 85px;
+    text-shadow: 6px 3px #932E41;
+    position: relative;
+    top: -62px;
+}
+
+
+.firstname {
+    font-size: 40px;
+    color: #a94056;
+    font-family: fino-sans;
+    background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 830px;
+    left: 251px;
+    position: relative;
+    top: -40px;
+}
+.emailaddress {
+    font-size: 40px;
+    color: #a94056;
+    font-family: fino-sans;
+    background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 830px;
+    position: relative;
+    left: 251px;
+    top: -26px;
+}
+.signup {
+    color: #a94056;
+    font-family: coolvetica;
+    text-align: center;
+    font-size: 41px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #FFFFFF;
+    width: 5em;
+    left: 550px;
+    position: relative;
+    padding-top: 10px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+.merch {
+    font-family: coolvetica;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 85px;
+    position: relative;
+    text-shadow: 6px 3px #932E41;
+    top: -39px;
+}
+.tshirt {
+    background-color: #FFFFFF;
+    padding: 5px;
+    position: relative;
+    left: 27px;
+    top: 79px;
+    width: 397px;
+    height: 422px;
+}
+.keychain {
+    padding: 5px;
+    position: relative;
+    left: 68px;
+    background-color: #FFFFFF;
+    top: 80px;
+    height: 422px;
+    width: 397px;
+}
+.cassette {
+    width: 397px;
+    height: 422px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    left: 103px;
+    background-color: #FFFFFF;
+    top: 82px;
+}
+.textshirt {
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    font-family: coolvetica;
+    font-size: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    text-shadow: 4px 3px #932E41;
+    width: 6em;
+    left: 86px;
+    top: 47px;
+}
+.keyringtext {
+    width: 7em;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: coolvetica;
+    text-shadow: 4px 3px #932E41;
+    font-size: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    top: -108px;
+    position: relative;
+    left: 510px;
+}
+.casstext {
+    color: #FFFFFF;
+    font-family: coolvetica;
+    font-size: 50px;
+    text-shadow: 4px 3px #932E41;
+    width: 7em;
+    padding-top: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    position: relative;
+    top: -259px;
+    left: 947px;
+    text-align: center;
+}
+.four99 {
+    color: #FFFFFF;
+    font-family: coolvetica;
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: -291px;
+    right: 455px;
+    text-shadow: 2px 3px #932E41;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.twentyfour {
+    margin-bottom: -243px;
+    position: relative;
+    top: -374px;
+    text-align: center;
+    font-size: 40px;
+    font-family: coolvetica;
+    color: #FFFFFF;
+    left: 10px;
+    text-shadow: 2px 3px #932E41;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.ninetyeight {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: coolvetica;
+    text-shadow: 2px 3px #932E41;
+    font-size: 40px;
+    position: relative;
+    padding-left: 5px;
+    padding-right: 5px;
+    top: -216px;
+    left: 454px;
+    margin-bottom: -18px;
+}
+.photos {
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    font-size: 85px;
+    font-family: coolvetica;
+    text-shadow: 6px 3px #932E41;
+    top: -39px;
+}
+.onephoto {
+    padding: 5px;
+    position: relative;
+    left: 14px;
+    text-shadow: 6px 3px;
+    top: -47px;
+    width: 690px;
+    margin-bottom: 19px;
+}
+.twophoto {
+    position: relative;
+    left: 114px;
+    top: -231px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: auto;
+}
+.threephoto {
+    margin-bottom: -102px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 733px;
+    top: -165px;
+    position: relative;
+}
+.fourphoto {
+    padding-left: 5px;
+    padding-right: 5px;
+    position: relative;
+    left: 754px;
+    top: -108px;
+    padding-bottom: 0px;
+}
+.twitter-tweet {
+    position: relative;
+    left: 399px;
+    top: -53px;
+}
